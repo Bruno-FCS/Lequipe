@@ -1,0 +1,173 @@
+*{
+	margin: 0;
+	padding: 0;
+	background-color: rgb(60, 61, 63);
+	font-family: 'Titillium Web', sans-serif;
+}
+
+#logo{
+	overflow: hidden;
+	background-color: black;
+	border: 2px solid white;
+	border-top-width: 0px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+}
+
+#imagem_logo{
+	border: 2px solid white;
+	border-top-width: 0px;
+	border-left-width: 0px;
+	border-bottom-width: 0px;
+	float: left;
+	width: 455px;
+}
+
+ul{
+	font-weight: 700;
+	color: white;
+	list-style: none;
+}
+
+li{
+	float: right;
+	background-color: black;
+	font-size: 24px;
+	padding: 30px;
+	padding-top: 61px;
+	padding-bottom: 61px;
+}
+
+li:hover{
+	background-color: rgb(30, 30, 30);
+}
+
+a{
+	color: white;
+}
+
+main{
+	position: relative;
+	background-color: rgb(237, 238, 240);
+	margin: auto;
+	margin-top: 50px;
+	width: 1000px;
+	border: 0px solid;
+	border-radius: 5px;
+}
+
+#imagem_cabelo{
+	float: left;
+	margin: 40px;
+	width: 400px;
+	border: 3px solid;
+}
+
+h1{
+	padding-top: 10px;
+	border-radius: 5px;
+	text-align: center;
+	background-color: rgb(237, 238, 240);
+}
+
+#content_1{
+	margin-top: 80px;
+	margin-right: 40px;
+	font-size: 20px;
+	text-align: left;
+	color: black;
+	display: inline-block;
+	width: 400px;
+}
+
+.p1{
+	background-color: rgb(237, 238, 240);
+	text-align: justify;
+}
+
+#retratos{
+	margin-top: 150px;
+	margin-bottom: 50px;
+	text-align: center;
+	width: 100%;
+	background-color: rgb(237, 238, 240)
+}
+
+.retrato{
+	margin: 20px;
+	padding: 10px;
+	display: inline-block;
+	height: 200px;
+	border-radius: 50%;
+}
+
+h2{
+	padding-top: 10px;
+	text-align: center;
+	background-color: rgb(237, 238, 240);
+}
+
+.salao{
+	margin-top: 50px;
+	background-color: blue;
+	display: inline-block;
+	width: 498px;
+	height: 360px;
+	background-color: rgb(237, 238, 240);
+	margin-bottom: 10px;
+}
+
+.imagem_salao{
+	margin: 25px;
+	margin-top: 0;
+	max-width: 450px;
+	background-color: rgb(237, 238, 240);
+}
+
+.p_salao{
+	text-align: center;
+	padding-right: 40px;
+	padding-left: 40px;
+	background-color: rgb(237, 238, 240);
+}
+
+footer{
+	font-weight: 700;
+	overflow: hidden;
+	margin-top: 50px;
+	background-color: rgb(237, 238, 240);
+}
+
+#imagem_footer{
+	float: right;
+	width: 200px;
+}
+
+#content_2{
+	margin-top: 50px;
+	margin-left: 100px;
+	width: 300px;
+	float: left;
+}
+
+.p2{
+	background-color: rgb(237, 238, 240);
+}
+
+.rede_social{
+	background-color: rgb(237, 238, 240)
+}
+
+.link_rs{
+	margin-left: 5px;
+	color: black;
+	text-decoration: none;
+	background-color: rgb(237, 238, 240);
+}
+
+.icone_rs{
+	margin-top: 2px;
+	background-color: rgb(237, 238, 240);
+	float: left;
+	height: 20px;
+}
