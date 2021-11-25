@@ -6,6 +6,8 @@
 }
 
 #logo{
+	height: 158px;
+	min-width: 1400px;
 	overflow: hidden;
 	background-color: black;
 	border: 2px solid white;
