@@ -7,7 +7,7 @@
 
 #logo{
 	height: 158px;
-	min-width: 1400px;
+	min-width: 1100px;
 	overflow: hidden;
 	background-color: black;
 	border: 2px solid white;
@@ -34,8 +34,8 @@ ul{
 li{
 	float: right;
 	background-color: black;
-	font-size: 24px;
-	padding: 30px;
+	font-size: 20px;
+	padding: 15px;
 	padding-top: 61px;
 	padding-bottom: 61px;
 }
